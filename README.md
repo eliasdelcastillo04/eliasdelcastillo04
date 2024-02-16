@@ -60,11 +60,10 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/elias-dc" target="_blank">
-<a href="www.linkedin.com/in/elias-del-castillo-6b138a241"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-
-</a>
-</li>
+  <a href="https://www.linkedin.com/in/elias-delcastillo" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</li
 
 <br>
 
