@@ -15,10 +15,19 @@
 
 I am a **Computer Science Student** passionate about software development and innovation. I define myself as creative, energetic, and always open to new opportunities to grow within a dynamic team.
 
-- 🔭 I’m currently working on **Full-Stack programming skills.**
-- 🌱 I’m currently learning **advanced algorithms and clean code architecture.**
-- 👯 I’m looking to collaborate on **open source projects.**
-- ⚡ Fun fact: **"Those who are crazy enough to think they can change the world are the ones who do."**
+- 🔭 I’m currently working on **various software engineering projects.**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence at GCI WORD.**
+- 👯 I’m looking to collaborate on **innovative software and AI-driven applications.**
+- ⚡ Fun fact: **I can spend hours finding a missing semicolon, but I still love coding every day!**
+
+<br>
+
+## 🚀 Featured Projects
+
+> **Note:** Check out some of my recent software and data projects below!
+
+- **[Project Name 1](https://github.com/EliasDelCastillo/tu-repo-aqui)** - *Brief description of a software project you built and what problem it solves.*
+- **[Project Name 2](https://github.com/EliasDelCastillo/tu-repo-aqui)** - *Brief description of a data analysis or AI model you are working on.*
 
 <br>
 
@@ -26,11 +35,12 @@ I am a **Computer Science Student** passionate about software development and in
 
 <div align="center">
 
-| Languages | Front-End | Tools |
+| Languages & DBs | Front-End | Tools & Data |
 | :---: | :---: | :---: |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | | ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | | ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 </div>
 
