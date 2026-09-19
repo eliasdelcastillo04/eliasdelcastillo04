@@ -40,37 +40,8 @@ I am a **Computer Science Student** and **Founder at DELCAST**, passionate about
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasdelcastillo04&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdelcastillo04&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  
-  <br>
-
-  <img src="https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?q=80&w=1740&auto=format&fit=crop" width="100%" alt="Mount Fuji" style="border-radius: 10px;">
-
-  <br><br>
-
-  <h3><em>"Those who are crazy enough to think they can change the world are the ones who do."</em></h3>
-  
-  <p>ソウズ・フー・アー・クレイジー・イナフ・トゥ・シンク・ゼイ・キャン・チェンジ・ザ・ワールド・アー・ザ・ワンズ・フー・ドゥー。</p>
-
-</div>| ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | | ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliasDelCastillo&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasDelCastillo&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasdelcastillo04&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasdelcastillo04&layout=compact&theme=tokyonight&hide_border=true&v=1" height="150" alt="languages graph" />
 </div>
 
 <br>
